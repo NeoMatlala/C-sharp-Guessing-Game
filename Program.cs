@@ -10,9 +10,7 @@ namespace NumberGuesser
     {
         static void Main(string[] args)
         {
-            
             AppInfo();  // call method for app info
-
 
             Name(); // call method to ask user name
 
@@ -30,7 +28,6 @@ namespace NumberGuesser
 
                 Console.Write("Guess a number between 1 and 10: ");
             
-
                 while (guess != correctNumber)
                 {
                     // get user guess
@@ -76,10 +73,8 @@ namespace NumberGuesser
             Console.Write("Enter name: ");
             string name = Console.ReadLine();
 
-            
             Console.WriteLine("{0}, Welcome! Let us play a guessing game...", name);
             Console.WriteLine();
-
         }
 
         // method that prints AppInfo
