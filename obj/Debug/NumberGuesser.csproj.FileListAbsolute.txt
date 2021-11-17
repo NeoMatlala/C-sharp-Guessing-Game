@@ -1,0 +1,8 @@
+C:\Users\matla\source\repos\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\matla\source\repos\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\matla\source\repos\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\matla\source\repos\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\matla\source\repos\NumberGuesser\obj\Debug\NumberGuesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\matla\source\repos\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\matla\source\repos\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\matla\source\repos\NumberGuesser\obj\Debug\NumberGuesser.pdb
